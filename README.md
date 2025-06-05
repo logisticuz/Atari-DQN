@@ -24,7 +24,7 @@ Detta projekt tränar en Dueling Double DQN agent för att spela *Space Invaders
    ```bash
    git clone https://github.com/ditt-användarnamn/space-invaders-dueling-dqn.git
    cd space-invaders-dueling-dqn
-````
+   ````
 
 2. Installera nödvändiga beroenden:
 
